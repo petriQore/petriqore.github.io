@@ -60,7 +60,7 @@ I wasn't sure if the echo command would work, so i used curl to send the flag to
 
 ## Metadata (cloud)
 
-Looking at the task name and category, i immediately remembered a task i had previously solved in a cloud vulnerability website called [flaws](http://flaws.cloud).
+Looking at the task name and category, i immediately remembered a task i had previously solved in a cloud vulnerability website called ```flaws.cloud``` 
 
 Basically, ec2 instances have metadata that can be accessed via a special IP address. This metadata includes information about the instance, such as its ID, type, and security credentials.  
 
