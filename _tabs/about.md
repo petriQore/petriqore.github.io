@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+I’m Ahmed, 21, currently studying ICT engineering @INSAT. I’m into cybersecurity and tech in general.
+
+This blog is where I drop writeups, side projects, and whatever else I find interesting—mostly around programming, tech, and the occasional tangent.
