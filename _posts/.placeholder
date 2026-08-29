@@ -1,1 +1,28 @@
+---
+title: ""
+date: YYYY-MM-DD HH:MM:SS +0000
+categories: [CATEGORY1, CATEGORY2, CATEGORY3]
+tags: [tag1, tag2, tag3]
+---
 
+Short intro/description of the post.
+
+## Section Title (tag)
+
+Body text here.
+
+```
+code block if needed
+```
+
+## Another Section Title (tag)
+
+More body text.
+
+{% raw %}
+```
+template/liquid-unsafe code block (wrap in raw if it contains {{ }} syntax)
+```
+{% endraw %}
+
+![alt-text](/assets/img/image-name.png)

@@ -66,7 +66,7 @@ Basically, ec2 instances have metadata that can be accessed via a special IP add
 
 According to AWS:
 
-![aws](/assets/img/aws.png)
+![aws](/assets/img/2025-04-06/aws.png)
 
 So we can use the obvious SSTI to get those security credentials like this:
 
@@ -111,7 +111,7 @@ This doesn't work in this case because go json library ```encoding/json``` will 
 
 And then i came across this github issue
 
-![github](/assets/img/gitissue.png)
+![github](/assets/img/2025-04-06/gitissue.png)
 
 which mentioned case-insensitivity, so i tried sending the JSON with the second key in a different case:
 
