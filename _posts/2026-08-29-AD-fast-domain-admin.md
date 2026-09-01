@@ -36,9 +36,9 @@ PORT      STATE  SERVICE          VERSION
 113/tcp   closed ident
 135/tcp   open   msrpc            Microsoft Windows RPC
 139/tcp   open   netbios-ssn      Microsoft Windows netbios-ssn
-389/tcp   open   ldap             Microsoft Windows Active Directory LDAP (Domain: ...-PROD.....COM0., Site: ...)
-| ssl-cert: Subject: commonName=SRV-DC-03...-PROD.....COM
-| Subject Alternative Name: othername: 1.3.6.1.4.1.311.25.1::<unsupported>, DNS:SRV-DC-03...-PROD.....COM
+389/tcp   open   ldap             Microsoft Windows Active Directory LDAP (Domain: ...-........COM0., Site: ...)
+| ssl-cert: Subject: commonName=......-........COM
+| Subject Alternative Name: othername: 1.3.6.1.4.1.311.25.1::<unsupported>, DNS:......-........COM
 | Not valid before: 2026-07-01T11:03:25
 |_Not valid after:  2027-07-01T11:03:25
 |_ssl-date: TLS randomness does not represent time
