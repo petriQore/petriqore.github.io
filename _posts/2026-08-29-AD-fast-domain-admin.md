@@ -65,13 +65,13 @@ As luck would have it, the last one I tried was the one that worked, so now I ha
 
 Let's check our account privileges:
 
-![alt text](../assets/img/2026-08-29/image2.png)
+![privs](../assets/img/2026-08-29/image2.png)
 
 
 It's over...
 
 
-![alt text](../assets/img/2026-08-29/image3.png)
+![itsover](../assets/img/2026-08-29/image3.png)
 
 Turns out that a domain admin had his credentials leaked in a stealer log, If i had searched for it from the start, I would have had access to the domain admin account in a matter of minutes, but I didn't know that at the time.
 
